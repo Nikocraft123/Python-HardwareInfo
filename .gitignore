@@ -1,0 +1,6 @@
+# IDE Files
+.idea
+
+# Pycache
+__pycache__
+**/__pycache__
